@@ -1,0 +1,35 @@
+_repo: The-Art-of-Soul-Winning_14716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahood, J. W. (John Wilmot)
+    alias: Mahood, John Wilmot
+    birthdate: 1864
+    deathdate: 1955
+    gutenberg_agent_id: '5645'
+    url: http://www.gutenberg.org/2009/agents/5645
+description: Never was there such great need for a mighty, Pentecostal revival in
+  all our Churches; and the key to such a revival is earnest personal work. But the
+  membership of the Churches are not prepared to enter upon this work. Multitudes
+  know nothing of a personal Pentecost. Many are utterly indifferent. They do not
+  realize their opportunity and responsibility before God. If they did, the revival
+  would come at once. With the hope that many professing Christians may be awakened
+  to duty, and hear God's call to personal work in soul-winning, this little volume
+  is written ...
+gutenberg_issued: '2005-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14716'
+  lccn: '01027156'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Evangelistic work'
+title: The Art of Soul-Winning
+url: http://www.gutenberg.org/ebooks/14716
